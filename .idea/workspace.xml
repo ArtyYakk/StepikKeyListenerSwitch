@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="768ea5d9-83c1-4ac4-a50e-2165e33c6d9f" name="Changes" comment="Заполнил фрейм текстурой">
-      <change afterPath="$PROJECT_DIR$/src/movingImage/MImageJF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/movingImage/MImageJP.java" afterDir="false" />
+    <list default="true" id="768ea5d9-83c1-4ac4-a50e-2165e33c6d9f" name="Changes" comment="Сделал картинку с возможностью ее перемещения клавишами">
+      <change afterPath="$PROJECT_DIR$/src/movingImage/MImageJFnew.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -67,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658855627301</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Сделал картинку с возможностью ее перемещения клавишами">
+      <created>1658864571568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658864571568</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Заполнил фрейм текстурой" />
-    <option name="LAST_COMMIT_MESSAGE" value="Заполнил фрейм текстурой" />
+    <MESSAGE value="Сделал картинку с возможностью ее перемещения клавишами" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал картинку с возможностью ее перемещения клавишами" />
   </component>
 </project>
