@@ -36,7 +36,26 @@ public class MImageJFnew extends JFrame {
             public void keyPressed(KeyEvent e) {
                 super.keyPressed(e);
 
-                switch(e.getKeyCode()){
+                if(e.isShiftDown()){
+                     switch(e.getKeyCode()){
+                        case 40:
+                            if(y < 550) y += 100;
+                            else y = 0;
+                            break;
+                        case 38:
+                            if(y > 0) y -= 100;
+                            else y = 550;
+                            break;
+                        case 37:
+                            if(x > 0) x -= 100;
+                            else x = 750;
+                            break;
+                        case 39:
+                            if(x < 750)  x += 100;
+                            else x = 0;
+                            break;
+                    }
+                } else switch(e.getKeyCode()){
                     case 40:
                         if(y < 550) y += 50;
                         else y = 0;

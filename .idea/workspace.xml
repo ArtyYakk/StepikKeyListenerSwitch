@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="768ea5d9-83c1-4ac4-a50e-2165e33c6d9f" name="Changes" comment="Изображение перемещается при удерживании + не ограничивается рамкой">
+    <list default="true" id="768ea5d9-83c1-4ac4-a50e-2165e33c6d9f" name="Changes" comment="Программа, записывающая текст с клавы в блокнот">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/movingImage/MImageJFnew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/movingImage/MImageJFnew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repeat/GrassJP.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +31,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -79,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658865171356</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Программа, записывающая текст с клавы в блокнот">
+      <created>1658867756689</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658867756689</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Программа, записывающая текст с клавы в блокнот">
+      <created>1658867778227</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658867778227</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +114,7 @@
     <MESSAGE value="Заполнил фрейм текстурой" />
     <MESSAGE value="Сделал картинку с возможностью ее перемещения клавишами" />
     <MESSAGE value="Изображение перемещается при удерживании + не ограничивается рамкой" />
-    <option name="LAST_COMMIT_MESSAGE" value="Изображение перемещается при удерживании + не ограничивается рамкой" />
+    <MESSAGE value="Программа, записывающая текст с клавы в блокнот" />
+    <option name="LAST_COMMIT_MESSAGE" value="Программа, записывающая текст с клавы в блокнот" />
   </component>
 </project>
